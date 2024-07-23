@@ -46,7 +46,7 @@ It highlights both strengths and opportunities for improvement in Q1 across the 
  Dataset - [Kaggle Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
 
 
-## Key Actionable Insights: (see PDF Report for more):
+## Key Actionable Insights(see PDF Report for more):
 
 - **Best Month**: January is the highest-performing month, generating $110,000 in revenue.
   
